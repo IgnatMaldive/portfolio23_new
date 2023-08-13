@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Web3 on Hugo Theme Stack Starter</title><link>https://ignatmaldive.github.io/portfolio23_new/categories/web3/</link><description>Recent content in Web3 on Hugo Theme Stack Starter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://ignatmaldive.github.io/portfolio23_new/categories/web3/index.xml" rel="self" type="application/rss+xml"/><item><title>Crypto Point-Of-Sale</title><link>https://ignatmaldive.github.io/portfolio23_new/p/crypto-point-of-sale/</link><pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate><guid>https://ignatmaldive.github.io/portfolio23_new/p/crypto-point-of-sale/</guid><description>&lt;img src="https://ignatmaldive.github.io/portfolio23_new/p/crypto-point-of-sale/mini-atm.jpg" alt="Featured image of post Crypto Point-Of-Sale" />&lt;p>MiniATM is a compact and simple Bitcoin Cash ATM. Easy to use and to reproduce, open source and low-cost. Simple one-way Fiat-to-Crypto exchange to spread BCH adoption.&lt;/p>
+&lt;p>Designed for DIY fabrication with off-the-shelf components. Anyone is free to build and distribute units locally, where ever they may be. Comprised only of a tablet computer, bill validator and a laser-cut acrylic structure. Make or purchase as a KIT with a price target under 600$.&lt;/p>
+&lt;p>Units are securely fixed on walls by tamper proof metal brackets. Anti-theft cables are used for over-the-counter locations.&lt;/p>
+&lt;h2 id="images">Images&lt;/h2>
+&lt;p>&lt;img src="https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/crypto-point-of-sale/03.jpg"
+width="710"
+height="946"
+srcset="https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/crypto-point-of-sale/03_hudc9a61689cf15efc27575f5005361932_129582_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/crypto-point-of-sale/03_hudc9a61689cf15efc27575f5005361932_129582_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+> &lt;img src="https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/crypto-point-of-sale/02.jpg"
+width="3264"
+height="2448"
+srcset="https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/crypto-point-of-sale/02_hu9f7372b8fd648a49f8b85c8b2884a8c3_1667770_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/crypto-point-of-sale/02_hu9f7372b8fd648a49f8b85c8b2884a8c3_1667770_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;a class="link" href="https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon" target="_blank" rel="noopener"
+>The Van de Graaf Canon&lt;/a>&lt;/p>
+&lt;h2 id="video">Video&lt;/h2>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/JPtrLKAc8lQ"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;!-- raw HTML omitted --></description></item></channel></rss>

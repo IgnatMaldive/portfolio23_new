@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Microcontroller on Hugo Theme Stack Starter</title><link>https://ignatmaldive.github.io/portfolio23_new/categories/microcontroller/</link><description>Recent content in Microcontroller on Hugo Theme Stack Starter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2004 00:00:00 +0000</lastBuildDate><atom:link href="https://ignatmaldive.github.io/portfolio23_new/categories/microcontroller/index.xml" rel="self" type="application/rss+xml"/><item><title>Robo-One</title><link>https://ignatmaldive.github.io/portfolio23_new/p/robo-one/</link><pubDate>Wed, 09 Jun 2004 00:00:00 +0000</pubDate><guid>https://ignatmaldive.github.io/portfolio23_new/p/robo-one/</guid><description>&lt;img src="https://ignatmaldive.github.io/portfolio23_new/p/robo-one/robo-one.jpg" alt="Featured image of post Robo-One" />&lt;p>TiTo is a humanoid robot built with servo-motors and methacrylate. This type of robot is called Robo-One and they are very popular in Japan. It was deliberately built with cheap, accessible and easily manipulated materials. One of the main project objectives was the study of bipedal movement on non-smooth surfaces.&lt;/p>
+&lt;p>TiTo was presented at Dorkbot Barcelona and Dorkbot Madrid in 2004.
+&lt;a class="link" href="http://robo-one.blogspot.com/" target="_blank" rel="noopener"
+>http://robo-one.blogspot.com/&lt;/a>&lt;/p>
+&lt;h2 id="image-gallery">Image Gallery&lt;/h2>
+&lt;p>&lt;img src="https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/robo-one/01.jpg"
+width="1024"
+height="768"
+srcset="https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/robo-one/01_hu60f53bc248526a312ff7296edbdd31ae_170151_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/robo-one/01_hu60f53bc248526a312ff7296edbdd31ae_170151_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/robo-one/02.jpg"
+width="1024"
+height="768"
+srcset="https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/robo-one/02_hu60f53bc248526a312ff7296edbdd31ae_178879_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/robo-one/02_hu60f53bc248526a312ff7296edbdd31ae_178879_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/robo-one/04.jpg"
+width="960"
+height="1280"
+srcset="https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/robo-one/04_hu6e1e6c727ce0b5182e0f3890e2fa716f_144557_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/robo-one/04_hu6e1e6c727ce0b5182e0f3890e2fa716f_144557_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+> &lt;img src="https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/robo-one/05.jpg"
+width="640"
+height="853"
+srcset="https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/robo-one/05_hu9490a12b43b34f758d728dc3d62cdaeb_108959_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/robo-one/05_hu9490a12b43b34f758d728dc3d62cdaeb_108959_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+>&lt;/p>
+&lt;h2 id="video">Video&lt;/h2>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/gCtja3AF7C4"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;!-- raw HTML omitted --></description></item></channel></rss>
