@@ -3,34 +3,136 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ignatmaldive.github.io/portfolio23_new/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/portfolio23_new/archives/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/augmented-reality/</loc>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ignatmaldive.github.io/portfolio23_new/categories/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/example-category/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/digital-fabrication/</loc>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/example-tag/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/flutter/</loc>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/portfolio23_new/p/hello-world/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/mobile/</loc>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ignatmaldive.github.io/portfolio23_new/page/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/p/paint-pad/</loc>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ignatmaldive.github.io/portfolio23_new/post/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ignatmaldive.github.io/portfolio23_new/tags/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/arduino/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/bluetooth/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/instalation/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/microcontroller/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/p/pedal-power/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/processing/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/crypto/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/p/crypto-point-of-sale/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/web3/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/multi-touch/</loc>
+    <lastmod>2008-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/optics/</loc>
+    <lastmod>2008-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/telepresence/</loc>
+    <lastmod>2008-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/telepresence/</loc>
+    <lastmod>2008-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/p/teletouch/</loc>
+    <lastmod>2008-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/amena/</loc>
+    <lastmod>2006-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/image-recognition/</loc>
+    <lastmod>2006-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/p/mobile-augmented-reality/</loc>
+    <lastmod>2006-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/movistar/</loc>
+    <lastmod>2006-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/vodafone/</loc>
+    <lastmod>2006-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/fabricaci%C3%B3n-digital/</loc>
+    <lastmod>2004-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/microcontroller/</loc>
+    <lastmod>2004-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/p/robo-one/</loc>
+    <lastmod>2004-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/robotics/</loc>
+    <lastmod>2004-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/p/augmented-reality-head-mounted-display/</loc>
+    <lastmod>2003-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/hmd/</loc>
+    <lastmod>2003-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/tags/image-recognition/</loc>
+    <lastmod>2003-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/virtual-reality/</loc>
+    <lastmod>2003-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/domotics/</loc>
+    <lastmod>2000-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/p/media-house/</loc>
+    <lastmod>2000-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/networks/</loc>
+    <lastmod>2000-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/curriculum/</loc>
   </url><url>
     <loc>https://ignatmaldive.github.io/portfolio23_new/links/</loc>
   </url><url>
     <loc>https://ignatmaldive.github.io/portfolio23_new/search/</loc>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/categories/test/</loc>
+  </url><url>
+    <loc>https://ignatmaldive.github.io/portfolio23_new/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>
